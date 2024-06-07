@@ -13,6 +13,9 @@ I'm Md sahrior Haider Shovon, a passionate first-year student at United Internat
   - ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 - ⚙️ **Skills**: Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP)
 - 🏆 **Competitive Programming**: Active on Codeforces, currently rated 1250+
+- 
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue)
 
 ## 🔧 Technologies & Tools
 - **Programming Languages**:
