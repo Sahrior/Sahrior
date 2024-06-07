@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Md Sahrior Haider Shovon</h1>
-<h3 align="center">I'm Sahrior, a passionate first-year student at United International University. I have a keen interest in competitive programming and I'm actively involved in honing my skills on platforms like Codeforces, where I hold a Green Code rating with a score of 1250+.</h3>
+<h3 align="center">I'm Sahrior, a passionate first-year student at United International University. I have a keen interest in competitive programming and I'm actively involved in honing my skills on platforms like Codeforces, where I hold a rating of 1250+.</h3>
 <img align="right" alt="Coding" width="400" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahrior&label=Profile%20views&color=0e75b6&style=flat" alt="sahrior" /> </p>
