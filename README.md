@@ -7,7 +7,7 @@ I'm Md Sahrior Haider Shovon, a passionate first-year student at United Internat
 ## 🚀 About Me
 - 📚 **Education**: First-year student at United International University
 - ⚙️ **Skills**: Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP)
-- 🏆 **Competitive Programming**: Active on Codeforces, solved (350+) problems and currently rated as pupil(1250+)
+- 🏆 **Competitive Programming**: Active on Codeforces, solved (350+) problems and currently rated as pupil(1200+)
 
 ## 🔧 Technologies & Tools
 **Programming Languages**:  
