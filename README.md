@@ -33,7 +33,9 @@ I'm Md Sahrior Haider Shovon, a passionate first-year student at United Internat
 
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahrior&show_icons=true&theme=radical)
+
+
 
 ## 🌱 What I'm Currently Learning
 - Advanced algorithms and data structures
