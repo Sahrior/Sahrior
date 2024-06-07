@@ -27,6 +27,9 @@ I'm Md Sahrior Haider Shovon, a passionate first-year student at United Internat
 ![Kinemaster](https://img.shields.io/badge/Kinemaster-00AEF9.svg?style=for-the-badge&logo=kinemaster&logoColor=white)
 ![Wondershare Filmora](https://img.shields.io/badge/Wondershare_Filmora-0085FF.svg?style=for-the-badge&logo=wondershare&logoColor=white)
 
+**Animation**:  
+![Plotagon](https://img.shields.io/badge/Plotagon-3F76EB.svg?style=for-the-badge&logo=plotagon&logoColor=white)
+
 
 
 ## 📈 GitHub Stats
