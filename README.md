@@ -1,32 +1,42 @@
+# Hi there! 👋
 
-<h1 align="center">Hi 👋, I'm Md Sahrior Haider Shovon</h1>
-<h3 align="center">I'm Sahrior, a passionate first-year student at United International University. I have a keen interest in competitive programming and I'm actively involved in honing my skills on platforms like Codeforces, where I hold a rating of 1250+.</h3>
-<img align="right" alt="Coding" width="400" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahrior&label=Profile%20views&color=0e75b6&style=flat" alt="sahrior" /> </p>
+I'm Md sahrior Haider Shovon, a passionate first-year student at United International University. I have a keen interest in competitive programming and I'm actively involved in honing my skills on platforms like Codeforces, where I hold a Green Code rating with a score of 1250+.
 
 
 
-- 🌱 I’m currently learning **DSA and OOP**
+## 🚀 About Me
+- 📚 **Education**: First-year student at United International University
+- 💻 **Languages**:
+  - ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  - ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+- ⚙️ **Skills**: Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP)
+- 🏆 **Competitive Programming**: Active on Codeforces, currently rated 1250+
 
-- 💬 Ask me about **Competitive Programming and DSA**
+## 🔧 Technologies & Tools
+- **Programming Languages**:
+  - ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  - ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+- **Tools & Platforms**: Git, GitHub, Codeforces
+- **Paradigms**: Object-Oriented Programming, Competitive Programming
 
-- ⚡ Fun fact **Throughout Heaven and Earth, I Alone Am The Best Problem Solver**
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sahrior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahrior" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md sahrior haider shovon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md sahrior haider shovon" height="30" width="40" /></a>
-<a href="https://fb.com/sah rior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sah rior" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shovonisnewbie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shovonisnewbie" height="30" width="40" /></a>
-</p>
+## 🌱 What I'm Currently Learning
+- Advanced algorithms and data structures
+- Optimization techniques for competitive programming
+- Exploring new programming languages and paradigms
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🏅 Achievements
+- Maintained a consistent rating of 1250+ on Codeforces
+- Solved numerous challenging problems in various coding competitions
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahrior&show_icons=true&locale=en&layout=compact" alt="sahrior" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahrior&show_icons=true&locale=en" alt="sahrior" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahrior&" alt="sahrior" /></p>
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/md-sahrior-haider-shovon-b4b7712b2/)
+- [Codeforces](https://codeforces.com/profile/shovonisnewbie)
+- [Facebook](https://www.facebook.com/profile.php?id=61554846465101)
 
