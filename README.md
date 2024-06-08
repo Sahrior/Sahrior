@@ -28,6 +28,16 @@ I'm Md Sahrior Haider Shovon, a passionate first-year student at United Internat
 **Animation**:  
 ![Plotagon](https://img.shields.io/badge/Plotagon-3F76EB.svg?style=flat-square&logo=plotagon&logoColor=white)
 
+**Basic Computer Skills**:  
+
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A.svg?style=flat-square&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A.svg?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+
+**Designing**:  
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white)
+
 
 
 
