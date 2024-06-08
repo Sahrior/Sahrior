@@ -11,24 +11,23 @@ I'm Md Sahrior Haider Shovon, a passionate first-year student at United Internat
 
 ## 🔧 Technologies & Tools
 **Programming Languages**:  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 
-**Tools & Platforms**:
-
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)
+**Tools & Platforms**:  
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white)
 
 **Video Editing**:  
-
-![Kinemaster](https://img.shields.io/badge/Kinemaster-00AEF9.svg?style=for-the-badge&logo=kinemaster&logoColor=white)
-![Wondershare Filmora](https://img.shields.io/badge/Wondershare_Filmora-0085FF.svg?style=for-the-badge&logo=wondershare&logoColor=white)
+![Kinemaster](https://img.shields.io/badge/Kinemaster-00AEF9.svg?style=flat-square&logo=kinemaster&logoColor=white)
+![Wondershare Filmora](https://img.shields.io/badge/Wondershare_Filmora-0085FF.svg?style=flat-square&logo=wondershare&logoColor=white)
 
 **Animation**:  
-![Plotagon](https://img.shields.io/badge/Plotagon-3F76EB.svg?style=for-the-badge&logo=plotagon&logoColor=white)
+![Plotagon](https://img.shields.io/badge/Plotagon-3F76EB.svg?style=flat-square&logo=plotagon&logoColor=white)
+
 
 
 
