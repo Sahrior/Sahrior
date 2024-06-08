@@ -43,9 +43,6 @@ I'm Md Sahrior Haider Shovon, a passionate first-year student at United Internat
 
 
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahrior&show_icons=true&theme=radical)
-
 
 
 ## 🌱 What I'm Currently Learning
@@ -57,6 +54,10 @@ I'm Md Sahrior Haider Shovon, a passionate first-year student at United Internat
 - Maintained a consistent rating of 1200+ on Codeforces
 - Solved numerous challenging problems in various coding competitions
 - Currently ranked 8th among the competitive programmer of uiu 
+
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahrior&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/md-sahrior-haider-shovon-b4b7712b2/)
