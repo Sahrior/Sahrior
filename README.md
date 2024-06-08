@@ -2,6 +2,8 @@
 
 I'm Md Sahrior Haider Shovon, a passionate first-year student at United International University. I have a keen interest in competitive programming and I'm actively involved in honing my skills on platforms like Codeforces, where I hold a rating of 1250+.
 
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Sahrior&style=flat-square&color=blue)
 
 
 ## 🚀 About Me
@@ -52,15 +54,15 @@ I'm Md Sahrior Haider Shovon, a passionate first-year student at United Internat
 - Exploring new programming languages and paradigms
 
 ## 🏅 Achievements
-- Maintained a consistent rating of 1250+ on Codeforces
+- Maintained a consistent rating of 1200+ on Codeforces
 - Solved numerous challenging problems in various coding competitions
+- Currently ranked 8th among the competitive programmer of uiu 
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/md-sahrior-haider-shovon-b4b7712b2/)
 - [Codeforces](https://codeforces.com/profile/shovonisnewbie)
 - [Facebook](https://www.facebook.com/profile.php?id=61554846465101)
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue)
+
 
 
