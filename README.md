@@ -1,4 +1,4 @@
-# Hi there! 👋
+<h1 align="center">Hi there! <span class="wave">👋</span></h1>
 
 I'm Md Sahrior Haider Shovon, a passionate first-year student at United International University. I have a keen interest in competitive programming and I'm actively involved in honing my skills on platforms like Codeforces, where I hold a rating of 1200+.
 
