@@ -67,7 +67,7 @@ I'm Md Sahrior Haider Shovon, a passionate first-year student at United Internat
 - Maintained a consistent rating of 1200+ on Codeforces
 - Solved numerous challenging problems in various coding competitions
 - Currently ranked 8th among the competitive programmer of uiu
-- 3 star problem solver in Hackerrank
+- 5 star problem solver in Hackerrank
 - Won several intra university programming contest
 
 
