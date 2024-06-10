@@ -5,7 +5,13 @@ I'm Md Sahrior Haider Shovon, a passionate first-year student at United Internat
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahrior&style=flat-square&color=blue)
 
+## 🏅 Achievements
+- Maintained a consistent rating of 1200+ on Codeforces
+- 5 star problem solver in Hackerrank
+- Currently ranked 4th among the competitive programmer of uiu
+- Won several programming contest
 
+  
 ## 🚀 About Me
 - 📚 **Education**: First-year student at United International University
 - ⚙️ **Skills**: Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP)
@@ -62,13 +68,6 @@ I'm Md Sahrior Haider Shovon, a passionate first-year student at United Internat
 - Advanced algorithms and data structures
 - Optimization techniques for competitive programming
 - Exploring new programming languages and paradigms
-
-## 🏅 Achievements
-- Maintained a consistent rating of 1200+ on Codeforces
-- Solved numerous challenging problems in various coding competitions
-- Currently ranked 8th among the competitive programmer of uiu
-- 5 star problem solver in Hackerrank
-- Won several intra university programming contest
 
 
 ## 📈 GitHub Stats
