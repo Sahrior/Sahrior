@@ -6,7 +6,7 @@ I'm Md Sahrior Haider Shovon, a passionate first-year student at United Internat
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahrior&style=flat-square&color=blue)
 
 ## 🏅 Achievements
-- Maintained a consistent rating of 1200+ on Codeforces
+- Maintained a consistent rating of 1200+ on Codeforces.
 - 5 star problem solver in Hackerrank
 - Currently ranked 4th among the competitive programmer of uiu
 - Won several programming contest
