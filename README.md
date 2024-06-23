@@ -9,10 +9,11 @@ I'm Md Sahrior Haider Shovon, a passionate first-year student at United Internat
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahrior&style=flat-square&color=blue)
   
-## 🚀 About Me
-- 📚 **Education**: First-year student at United International University.
-- ⚙️ **Skills**: Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), Front-end development.
-- 🏆 **Competitive Programming**: Active on Codeforces, solved 350+ problems and currently rated as pupil (1200+).
+## 🚀 About Me & 🏅 Achievements
+- First-year student at United International University.
+- Skilled in Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), Front-end development.
+- Active on Codeforces, solved 400+ problems and currently rated as pupil (1200+).
+- 5-star problem solver in Hackerrank.
 
 ## 🔧 Technologies & Tools
 <img align="right" src="https://media.licdn.com/dms/image/D5622AQEe18tt4rWc2w/feedshare-shrink_2048_1536/0/1691893673579?e=2147483647&v=beta&t=SczBnQ2brSjDBjy-EIbh5stRkF9fIBmFSOPVBV3j7XQ" alt="Coding Picture" width="300"/>
@@ -63,12 +64,6 @@ I'm Md Sahrior Haider Shovon, a passionate first-year student at United Internat
 - Optimization techniques for competitive programming.
 - Exploring new programming languages and paradigms.
 
-
-## 🏅 Achievements
-- Maintained a consistent rating of 1200+ on Codeforces.
-- 5-star problem solver in Hackerrank.
-- Currently ranked 4th among competitive programmers at UIU.
-- Won several programming contests.
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahrior&show_icons=true&theme=radical)
