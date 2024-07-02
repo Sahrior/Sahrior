@@ -2,13 +2,9 @@
   <img src="https://i.pinimg.com/originals/0d/8c/6a/0d8c6a27b4b039d5b9cfe8aa4777766d.png" width="400" alt="Profile Image">
 </p>
 
-<h1 align="center">Hi there! <span class="wave">👋</span></h1>
+<h1 align="center">Hi there! I'm Md Sahrior Haider Shovon <span class="wave">👋</span></h1>
 
-I'm Md Sahrior Haider Shovon
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Sahrior&style=flat-square&color=blue)
-  
 ## 🚀 About Me & 🏅 Achievements
 - First-year student at United International University and a competitive programmer.
 - Skilled in Data Structures and Algorithms ( C++/C )
@@ -68,6 +64,9 @@ I'm Md Sahrior Haider Shovon
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahrior&show_icons=true&theme=radical)
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Sahrior&style=flat-square&color=blue)
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/md-sahrior-haider-shovon-b4b7712b2/)
