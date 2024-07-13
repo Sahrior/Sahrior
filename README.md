@@ -9,7 +9,7 @@
 - First-year student at United International University and a competitive programmer.
 - Skilled in Data Structures and Algorithms ( C++/C )
 - Skilled in Object Oriented Programmin ( JAVA )
-- Skilled in Development ( HTML/CSS/JAVASCRIPT )
+- Skilled in Web Development ( HTML/CSS/JAVASCRIPT )
 - Active on Codeforces, solved 400+ problems and currently rated as pupil (1200+).
 - 5-star problem solver in Hackerrank.
 
@@ -22,7 +22,7 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) 
 
-**Development**:  
+**Web Development**:  
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
