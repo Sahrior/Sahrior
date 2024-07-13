@@ -60,6 +60,7 @@
 
 ## 🌱 What I'm Currently Learning
 - Advanced algorithms and data structures.
+- Web development with js.
 - Optimization techniques for competitive programming.
 - Exploring new programming languages and paradigms.
 
