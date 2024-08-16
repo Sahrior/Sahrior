@@ -10,7 +10,7 @@
 - Skilled in Data Structures and Algorithms ( C++/C )
 - Skilled in Object Oriented Programmin ( JAVA )
 - Skilled in Web Development ( HTML/CSS/JAVASCRIPT )
-- Active on Codeforces, solved 400+ problems and currently rated as pupil (1200+).
+-  rated as pupil in codeforces.
 - 5-star problem solver in Hackerrank.
 
 ## 🔧 Technologies & Tools
