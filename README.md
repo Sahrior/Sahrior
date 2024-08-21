@@ -31,7 +31,7 @@
 
 **Competitive Programming**:  
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Sahrior)
-[![Codechef](https://img.shields.io/badge/Virtual_Judge-FF4500.svg?style=flat-square&logo=codeforces&logoColor=white)](https://www.codechef.com/users/i_code_to_live)
+[![Codechef](https://img.shields.io/badge/Codechef-FF4500.svg?style=flat-square&logo=codeforces&logoColor=white)](https://www.codechef.com/users/i_code_to_live)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sahriorishere)
 [![Virtual Judge](https://img.shields.io/badge/Virtual_Judge-FF4500.svg?style=flat-square&logo=codeforces&logoColor=white)](https://vjudge.net/user/Sahrior_shovon)
 
