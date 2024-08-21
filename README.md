@@ -7,11 +7,13 @@
 
 ## 🚀 About Me & 🏅 Achievements
 - First-year student at United International University and a competitive programmer.
+- 2 star rating on codechef ( Highest rating 1429 )
+- Rated as pupil in codeforces.
+- 5-star problem solver in Hackerrank.
 - Skilled in Data Structures and Algorithms ( C++/C )
 - Skilled in Object Oriented Programmin ( JAVA )
 - Skilled in Web Development ( HTML/CSS/JAVASCRIPT )
--  rated as pupil in codeforces.
-- 5-star problem solver in Hackerrank.
+
 
 ## 🔧 Technologies & Tools
 <img align="right" src="https://media.licdn.com/dms/image/D5622AQEe18tt4rWc2w/feedshare-shrink_2048_1536/0/1691893673579?e=2147483647&v=beta&t=SczBnQ2brSjDBjy-EIbh5stRkF9fIBmFSOPVBV3j7XQ" alt="Coding Picture" width="300"/>
@@ -28,7 +30,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
 **Competitive Programming**:  
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shovonisnewbie)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Sahrior)
+[![Codechef](https://img.shields.io/badge/Virtual_Judge-FF4500.svg?style=flat-square&logo=codeforces&logoColor=white)](https://www.codechef.com/users/i_code_to_live)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sahriorishere)
 [![Virtual Judge](https://img.shields.io/badge/Virtual_Judge-FF4500.svg?style=flat-square&logo=codeforces&logoColor=white)](https://vjudge.net/user/Sahrior_shovon)
 
@@ -73,7 +76,8 @@
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/md-sahrior-haider-shovon-b4b7712b2/)
-- [Codeforces](https://codeforces.com/profile/shovonisnewbie)
+- [Codeforces](https://codeforces.com/profile/Sahrior)
+- [Codechef](https://www.codechef.com/users/i_code_to_live)
 - [Facebook](https://www.facebook.com/profile.php?id=61554846465101)
 
 
