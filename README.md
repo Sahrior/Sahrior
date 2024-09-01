@@ -13,6 +13,7 @@
 - Skilled in Data Structures and Algorithms ( C++/C )
 - Skilled in Object Oriented Programmin ( JAVA )
 - Skilled in Web Development ( HTML/CSS/JAVASCRIPT )
+- Solved 1000+ problems releated to data structure and algorithm on various platorm like codeforce,codechef,hackerrank,vjudge
 
 
 ## 🔧 Technologies & Tools
@@ -79,6 +80,7 @@
 - [Codeforces](https://codeforces.com/profile/Sahrior)
 - [Codechef](https://www.codechef.com/users/i_code_to_live)
 - [Facebook](https://www.facebook.com/profile.php?id=61554846465101)
+- [vjudge](https://vjudge.net/user/Sahrior_shovon)
 
 
 
