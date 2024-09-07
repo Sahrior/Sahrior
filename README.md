@@ -6,7 +6,7 @@
 
 ## 🏅 Achievements
 - 2 star rating on codechef ( Highest rating 1429 )
-- Rated as pupil in codeforces.(1200+ rating)
+- Rated as pupil in codeforces ( 1200+ rating )
 - 5-star problem solver in Hackerrank.
 
 ## 🚀 About Me & 🏅 Achievements
