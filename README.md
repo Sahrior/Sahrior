@@ -4,6 +4,10 @@
 
 <h1 align="center">Hi there! I'm Md Sahrior Haider Shovon <span class="wave">👋</span></h1>
 
+## 🏅 Achievements
+- 2 star rating on codechef ( Highest rating 1429 )
+- Rated as pupil in codeforces.
+- 5-star problem solver in Hackerrank.
 
 ## 🚀 About Me & 🏅 Achievements
 - First-year student at United International University and a competitive programmer.
@@ -12,10 +16,7 @@
 - Skilled in Web Development ( HTML/CSS/JAVASCRIPT )
 - Solved 1000+ problems releated to data structure and algorithm on various platorm like codeforce,codechef,hackerrank,vjudge
 
-## 🏅 Achievements
-- 2 star rating on codechef ( Highest rating 1429 )
-- Rated as pupil in codeforces.
-- 5-star problem solver in Hackerrank.
+
 
 ## 🔧 Technologies & Tools
 <img align="right" src="https://media.licdn.com/dms/image/D5622AQEe18tt4rWc2w/feedshare-shrink_2048_1536/0/1691893673579?e=2147483647&v=beta&t=SczBnQ2brSjDBjy-EIbh5stRkF9fIBmFSOPVBV3j7XQ" alt="Coding Picture" width="300"/>
