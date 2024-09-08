@@ -6,7 +6,7 @@
 - 5-star problem solver in Hackerrank.
   
 ## 🏆 Contest Ranking
-- Ranked 1 in [UIU Beginner Long Contest](https://vjudge.net/contest/652580#rank)
+- Ranked 1st in [UIU Beginner Long Contest](https://vjudge.net/contest/652580#rank)
 
 ## 🚀 About Me
 - First-year student at United International University and a competitive programmer.
