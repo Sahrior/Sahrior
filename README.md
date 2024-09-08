@@ -4,6 +4,9 @@
 - 2 star rating on codechef ( Highest rating 1429 )
 - Rated as pupil in codeforces ( 1200+ rating )
 - 5-star problem solver in Hackerrank.
+  
+## 🏆 Contest Ranking
+- Ranked 1 in [UIU Beginner Long Contest](https://vjudge.net/contest/652580)
 
 ## 🚀 About Me & 🏅 Achievements
 - First-year student at United International University and a competitive programmer.
