@@ -69,13 +69,7 @@
 - Web development with js.
 - Optimization techniques for competitive programming.
 - Exploring new programming languages and paradigms.
-
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahrior&show_icons=true&theme=radical)
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Sahrior&style=flat-square&color=blue)
+- 
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/md-sahrior-haider-shovon-b4b7712b2/)
@@ -84,5 +78,7 @@
 - [Facebook](https://www.facebook.com/profile.php?id=61554846465101)
 - [vjudge](https://vjudge.net/user/Sahrior_shovon)
 
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Sahrior&style=flat-square&color=blue)
 
 
