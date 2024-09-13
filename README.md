@@ -16,6 +16,11 @@
 - Skilled in Web Development ( HTML/CSS/JAVASCRIPT )
 - Solved 1000+ problems releated to data structure and algorithm on various platorm like codeforce,codechef,hackerrank,vjudge
 
+## 🌱 What I'm Currently Learning
+- Advanced algorithms and data structures.
+- Web development with js.
+- Optimization techniques for competitive programming.
+- Exploring new programming languages and paradigms.
 
 
 ## 🔧 Technologies & Tools
@@ -62,14 +67,7 @@
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-007ACC.svg?style=flat-square&logo=codeblocks&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800.svg?style=flat-square&logo=sublime-text&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
-
-
-## 🌱 What I'm Currently Learning
-- Advanced algorithms and data structures.
-- Web development with js.
-- Optimization techniques for competitive programming.
-- Exploring new programming languages and paradigms.
-- 
+  
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/md-sahrior-haider-shovon-b4b7712b2/)
