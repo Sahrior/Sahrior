@@ -1,8 +1,8 @@
 <h1 align="center">Hi there! I'm Md Sahrior Haider Shovon <span class="wave">👋</span></h1>
 
 ## 🏅 Achievements
-- 2 star rating on codechef ( Highest rating 1429 )
-- Rated as pupil in codeforces ( 1200+ rating )
+- 2 star rating on codechef ( Highest rating 1429 ) 
+- Rated as pupil in codeforces [( 1200+ rating )](https://codeforces.com/profile/Sahrior)
 - 5-star problem solver in Hackerrank.
   
 ## 🏆 Contest Ranking
