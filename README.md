@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! I'm Md Sahrior Haider Shovon <span class="wave">👋</span></h1>
 
 ## 🏅 Achievements
-- 2 star rating on codechef ( Highest rating 1429 ) 
+- 2 star rating on codechef [( Highest rating 1454 )](https://www.codechef.com/users/i_code_to_live) 
 - Rated as pupil in codeforces [( 1200+ rating )](https://codeforces.com/profile/Sahrior)
-- 5-star problem solver in Hackerrank.
+- 5-star problem solver [in Hackerrank](https://www.hackerrank.com/profile/sahriorishere)
   
 ## 🏆 Contest Ranking
 - Ranked 1st in [UIU Long Contest](https://vjudge.net/contest/652580#rank)
