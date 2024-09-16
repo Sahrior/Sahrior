@@ -71,9 +71,6 @@
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/md-sahrior-haider-shovon-b4b7712b2/)
-- [Codeforces](https://codeforces.com/profile/Sahrior)
-- [Codechef](https://www.codechef.com/users/i_code_to_live)
-- [Facebook](https://www.facebook.com/profile.php?id=61554846465101)
 - [vjudge](https://vjudge.net/user/Sahrior_shovon)
 
 ## 👀 Profile Views
