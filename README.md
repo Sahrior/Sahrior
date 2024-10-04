@@ -8,7 +8,7 @@
 ## 🏆 Contest Ranking
 - Ranked 1st in [UIU Long Contest](https://vjudge.net/contest/652580#rank)
 - 1st Runner ups in [TopCoder Junior Programming Contest](https://www.facebook.com/share/p/WkVj119B6pinz7X7/)
-- Qualified for the first round of the [SRBD Code Contest 2024](https://www.hackerrank.com/contests/srbd-code-contest-2024-round-1/leaderboard)
+- Qualified for the first round of the [SRBD Code Contest 2024 (Ranked 291th) ](https://www.hackerrank.com/contests/srbd-code-contest-2024-round-1/leaderboard)
 
 ## 🚀 About Me
 - First-year student at United International University and a competitive programmer.
