@@ -10,6 +10,7 @@
 - 1st Runner ups in [TopCoder Junior Programming Contest](https://www.facebook.com/share/p/WkVj119B6pinz7X7/)
 - Qualified for the first round of the [SRBD Code Contest 2024 (Ranked 291th among 2000+ participant)  ](https://www.hackerrank.com/contests/srbd-code-contest-2024-round-1/leaderboard) Username: sahriorishere
 - We participated in the ICPC Dhaka Regional Preliminary Round, solving two problems. [We ranked 3rd among 23 teams from our university and got selected for ICPC Dhaka regionak onsite round. Team name: UIU_Entropy](https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2024/standings)
+- Ranked 200th at ICPC dhaka Asia Dhaka regional round 2024 (Team name: UIU_Entropy)
 - Won silver medal at BeatCode 243 coding contest organised by United International University.
 
 ## 🚀 About Me
