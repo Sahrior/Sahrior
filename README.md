@@ -12,6 +12,7 @@
 - We participated in the ICPC Dhaka Regional Preliminary Round, solving two problems. [We ranked 3rd among 23 teams from our university and got selected for ICPC Dhaka regionak onsite round. Team name: UIU_Entropy](https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2024/standings)
 - Ranked 200th at ICPC dhaka Asia Dhaka regional round 2024 (Team name: UIU_Entropy)
 - Won silver medal at BeatCode 243 coding contest organised by United International University.
+- Ranked 1st in [CODECLYPSE - Intra UIU Programming Contest](https://codeforces.com/gym/579729/standings)
 
 ## 🚀 About Me
 - First-year student at United International University and a competitive programmer.
