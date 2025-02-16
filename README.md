@@ -58,11 +58,13 @@
 ## 🏆 Contest Ranking
 - Ranked 1st in [UIU Long Contest](https://vjudge.net/contest/652580#rank)
 - 1st Runner ups in [TopCoder Junior Programming Contest](https://www.facebook.com/share/p/WkVj119B6pinz7X7/)
-- Qualified for the first round of the [SRBD Code Contest 2024 (Ranked 291th among 2000+ participant)  ](https://www.hackerrank.com/contests/srbd-code-contest-2024-round-1/leaderboard) Username: sahriorishere
+- Qualified for the second round of the [SRBD Code Contest 2024 (Ranked 291th among 2000+ participant)  ](https://www.hackerrank.com/contests/srbd-code-contest-2024-round-1/leaderboard) Username: sahriorishere
 - We participated in the ICPC Dhaka Regional Preliminary Round, solving two problems. [We ranked 3rd among 23 teams from our university and got selected for ICPC Dhaka regionak onsite round. Team name: UIU_Entropy](https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2024/standings)
 - Ranked 200th at ICPC dhaka Asia Dhaka regional round 2024 (Team name: UIU_Entropy)
-- Won silver medal at BeatCode 243 coding contest organised by United International University.
+- Won silver medal at [BeatCode 243 coding contest organised by United International University.](https://codeforces.com/gym/568088/standings)
 - Ranked 1st in [CODECLYPSE - Intra UIU Programming Contest](https://codeforces.com/gym/579729/standings)
+- 2nd Runner ups at [Falguni Code War 2025 organised by UIU](https://codeforces.com/gym/588461/standings)
+- Ranked 33th at [YCPC Grand Finale 2k25 organised by Phitron](https://www.hackerrank.com/contests/ycpc-grand-finale-2k24/leaderboard/4)
   
 
 ## 🔗 Connect with Me
