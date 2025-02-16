@@ -5,14 +5,6 @@
 - Rated as pupil in codeforces [( 1200+ rating )](https://codeforces.com/profile/Sahrior)
 - 5-star problem solver [in Hackerrank](https://www.hackerrank.com/profile/sahriorishere)
   
-## 🏆 Contest Ranking
-- Ranked 1st in [UIU Long Contest](https://vjudge.net/contest/652580#rank)
-- 1st Runner ups in [TopCoder Junior Programming Contest](https://www.facebook.com/share/p/WkVj119B6pinz7X7/)
-- Qualified for the first round of the [SRBD Code Contest 2024 (Ranked 291th among 2000+ participant)  ](https://www.hackerrank.com/contests/srbd-code-contest-2024-round-1/leaderboard) Username: sahriorishere
-- We participated in the ICPC Dhaka Regional Preliminary Round, solving two problems. [We ranked 3rd among 23 teams from our university and got selected for ICPC Dhaka regionak onsite round. Team name: UIU_Entropy](https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2024/standings)
-- Ranked 200th at ICPC dhaka Asia Dhaka regional round 2024 (Team name: UIU_Entropy)
-- Won silver medal at BeatCode 243 coding contest organised by United International University.
-- Ranked 1st in [CODECLYPSE - Intra UIU Programming Contest](https://codeforces.com/gym/579729/standings)
 
 ## 🚀 About Me
 - First-year student at United International University and a competitive programmer.
@@ -52,26 +44,25 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white)
 
-**Video Editing**:  
-![Kinemaster](https://img.shields.io/badge/Kinemaster-00AEF9.svg?style=flat-square&logo=kinemaster&logoColor=white)
-![Wondershare Filmora](https://img.shields.io/badge/Wondershare_Filmora-0085FF.svg?style=flat-square&logo=wondershare&logoColor=white)
-
-**Animation**:  
-![Plotagon](https://img.shields.io/badge/Plotagon-3F76EB.svg?style=flat-square&logo=plotagon&logoColor=white)
-
 **Basic Computer Skills**:  
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A.svg?style=flat-square&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A.svg?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
-
-**Designing**:  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white)
 
 **Editor & IDE**:  
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-007ACC.svg?style=flat-square&logo=codeblocks&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800.svg?style=flat-square&logo=sublime-text&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+
+## 🏆 Contest Ranking
+- Ranked 1st in [UIU Long Contest](https://vjudge.net/contest/652580#rank)
+- 1st Runner ups in [TopCoder Junior Programming Contest](https://www.facebook.com/share/p/WkVj119B6pinz7X7/)
+- Qualified for the first round of the [SRBD Code Contest 2024 (Ranked 291th among 2000+ participant)  ](https://www.hackerrank.com/contests/srbd-code-contest-2024-round-1/leaderboard) Username: sahriorishere
+- We participated in the ICPC Dhaka Regional Preliminary Round, solving two problems. [We ranked 3rd among 23 teams from our university and got selected for ICPC Dhaka regionak onsite round. Team name: UIU_Entropy](https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2024/standings)
+- Ranked 200th at ICPC dhaka Asia Dhaka regional round 2024 (Team name: UIU_Entropy)
+- Won silver medal at BeatCode 243 coding contest organised by United International University.
+- Ranked 1st in [CODECLYPSE - Intra UIU Programming Contest](https://codeforces.com/gym/579729/standings)
   
 
 ## 🔗 Connect with Me
