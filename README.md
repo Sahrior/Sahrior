@@ -7,17 +7,7 @@
   
 
 ## 🚀 About Me
-- First-year student at United International University and a competitive programmer.
-- Skilled in Data Structures and Algorithms ( C++/C )
-- Skilled in Object Oriented Programmin ( JAVA )
-- Skilled in Web Development ( HTML/CSS/JAVASCRIPT )
-- Solved 1000+ problems releated to data structure and algorithm on various platorm like codeforce,codechef,hackerrank,vjudge
-
-## 🌱 What I'm Currently Learning
-- Advanced algorithms and data structures.
-- Web development with js.
-- Optimization techniques for competitive programming.
-- Exploring new programming languages and paradigms.
+I am a competitive programmer with a strong command of data structures and algorithms, always striving for optimized and efficient solutions. As a full-stack web developer, I specialize in building dynamic and responsive applications using HTML, CSS, JavaScript, and modern frameworks like Tailwind, MongoDB, Express.js, Node.js, and React.js. Passionate about solving complex problems and creating impactful digital solutions.
 
 
 ## 🔧 Technologies & Tools
