@@ -55,7 +55,7 @@ I am a competitive programmer with a strong command of data structures and algor
 - Ranked 1st in [CODECLYPSE - Intra UIU Programming Contest](https://codeforces.com/gym/579729/standings)
 - 2nd Runner ups at [Falguni Code War 2025 organised by UIU](https://codeforces.com/gym/588461/standings)
 - Ranked 33th at [YCPC Grand Finale 2k25 organised by Phitron](https://www.hackerrank.com/contests/ycpc-grand-finale-2k24/leaderboard/4)
-- Ranked 4th at [Turtle Coders Race 2025](https://codeforces.com/gym/611797/standings)
+- Ranked 4th at [Turtle Coders Race 2025]( https://www.facebook.com/share/p/1CFM13ubUG/ )
   
 
 ## 🔗 Connect with Me
