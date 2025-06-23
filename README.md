@@ -56,6 +56,7 @@ I am a competitive programmer with a strong command of data structures and algor
 - 2nd Runner ups at [Falguni Code War 2025 organised by UIU](https://codeforces.com/gym/588461/standings)
 - Ranked 33th at [YCPC Grand Finale 2k25 organised by Phitron](https://www.hackerrank.com/contests/ycpc-grand-finale-2k24/leaderboard/4)
 - Ranked 4th at [Turtle Coders Race 2025]( https://www.facebook.com/share/p/1CFM13ubUG/ )
+- Passed the [Therap JavaFest 2025 screening test](https://www.linkedin.com/posts/sahrior_im-happy-to-share-that-i-passed-the-therap-activity-7342894177027866626-j56h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs4OCsB2rmsdI_ydLi8pKgiJXkaizPrq_0)
   
 
 ## 🔗 Connect with Me
