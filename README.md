@@ -4,6 +4,7 @@
 - 2 star rating on codechef [( Max rating 1454 )](https://www.codechef.com/users/i_code_to_live) 
 - Rated as pupil in codeforces [( Max rating 1239 )](https://codeforces.com/profile/Sahrior)
 - 5-star problem solver [in Hackerrank](https://www.hackerrank.com/profile/sahriorishere)
+- 2nd runner up at Advanced object oriented project show , [Team name UIU Entropy](https://www.facebook.com/share/1CTGJ51YRC/)
   
 
 ## 🚀 About Me
