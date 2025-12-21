@@ -5,7 +5,7 @@
 - Rated as pupil in codeforces [( Max rating 1239 )](https://codeforces.com/profile/Sahrior)
 - 5-star problem solver [in Hackerrank](https://www.hackerrank.com/profile/sahriorishere)
 - ICPC Regionalist 2024
-- 2nd runner up at [Advanced object oriented project show](https://docs.google.com/spreadsheets/d/1y5HETFqxcGoOglLizi7K8gwbVMh84sQP4f5fo84s0e4/edit?gid=28342029#gid=28342029) , [Team name UIU Entropy](https://www.facebook.com/share/1CTGJ51YRC/)
+- 2nd runner up at [Advanced object oriented project show](https://cse.uiu.ac.bd/projects/advanced-object-oriented-programming-laboratory/?rank=2nd-runner-up) , [Team name UIU Entropy](https://www.facebook.com/share/1CTGJ51YRC/)
   
 
 ## 🚀 About Me
@@ -59,6 +59,7 @@ I am a competitive programmer with a strong command of data structures and algor
 - Ranked 33th at [YCPC Grand Finale 2k25 organised by Phitron](https://www.hackerrank.com/contests/ycpc-grand-finale-2k24/leaderboard/4)
 - Ranked 4th at [Turtle Coders Race 2025]( https://www.facebook.com/share/p/1CFM13ubUG/ )
 - Passed the [Therap JavaFest 2025 screening test](https://www.linkedin.com/posts/sahrior_im-happy-to-share-that-i-passed-the-therap-activity-7342894177027866626-j56h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs4OCsB2rmsdI_ydLi8pKgiJXkaizPrq_0)
+- Finalist at [BUBT Innovatex Hackathon 2025](https://www.facebook.com/share/17aFbXKZP7/)
   
 
 ## 🔗 Connect with Me
