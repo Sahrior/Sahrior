@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Md Sahrior Haider Shovon <span class="wave">👋</span></h1>
+<h1 align="center">Hi ! I'm Md Sahrior Haider Shovon <span class="wave">👋</span></h1>
 
 ## 🏅 Achievements
 - 2 star rating on codechef [( Max rating 1454 )](https://www.codechef.com/users/i_code_to_live) 
