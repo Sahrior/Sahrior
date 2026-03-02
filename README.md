@@ -9,7 +9,7 @@
   
 
 ## 🚀 About Me
-I am a competitive programmer with a strong foundation in data structures and algorithms, focused on writing clean, optimized, and efficient solutions. As a frontend-focused web developer, I enjoy transforming UI/UX designs into responsive, visually appealing, and user-friendly interfaces. I work extensively with HTML, CSS, JavaScript, ReactJS, and Tailwind to build modern, accessible, and well-structured web experiences. I’m passionate about crafting intuitive interfaces, ensuring design consistency, and delivering polished products that provide an excellent user experience.
+I am a competitive programmer with a strong foundation in data structures and algorithms, focused on writing clean, optimized, and efficient solutions. As a frontend-focused web developer, I enjoy transforming UI/UX designs into responsive, visually appealing, and user-friendly interfaces. I work extensively with HTML, CSS, JavaScript, ReactJS, and Tailwind to build modern, accessible, and well-structured web experience. I’m passionate about crafting intuitive interfaces, ensuring design consistency, and delivering polished products that provide an excellent user experience.
 
 
 ## 🏆 Achivements
