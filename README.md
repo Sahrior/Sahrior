@@ -1,7 +1,7 @@
 <h1 align="center">Hi ! I'm Md Sahrior Haider Shovon <span class="wave">👋</span></h1>
 
 ## 🏅 Achievements
-- 2 stars rating on codechef [( Max rating 1444 )](https://www.codechef.com/users/i_code_to_live) 
+- 2 star rating on codechef [( Max rating 1444 )](https://www.codechef.com/users/i_code_to_live) 
 - Rated as pupil in codeforce [( Max rating 1239 )](https://codeforces.com/profile/Sahrior)
 - 5 star problem solver [in Hackerrank](https://www.hackerrank.com/profile/sahriorishere)
 - ICPC Regionalist 2024
