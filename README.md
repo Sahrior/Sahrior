@@ -41,6 +41,9 @@ I am a competitive programmer with a strong foundation in data structures and al
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Competitive Programming**:  
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Sahrior)
