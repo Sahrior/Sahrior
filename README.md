@@ -56,16 +56,11 @@ ability, having solved 1500+ problems across competitive programming platforms.
 - ICPC Regionalist 2024
 - 2nd Runner Up at [Advanced object oriented project show](https://cse.uiu.ac.bd/projects/advanced-object-oriented-programming-laboratory/?rank=2nd-runner-up) , [Team name UIU Entropy](https://www.facebook.com/share/1CTGJ51YRC/)
 - 4th Runner Up at [System analysis and design project show Fall 25](https://www.facebook.com/photo/?fbid=849894328069134&set=a.133664646358776)
-- Ranked 1st in [UIU Long Contest](https://vjudge.net/contest/652580#rank)
-- 1st Runner ups in [TopCoder Junior Programming Contest](https://www.facebook.com/share/p/WkVj119B6pinz7X7/)
 - Qualified for the second round of the [SRBD Code Contest 2024 (Ranked 291th among 2000+ participant)  ](https://www.hackerrank.com/contests/srbd-code-contest-2024-round-1/leaderboard) Username: sahriorishere
 - We participated in the ICPC Dhaka Regional Preliminary Round, solving two problems. [We ranked 3rd among 23 teams from our university and got selected for ICPC Dhaka regionak onsite round. Team name: UIU_Entropy](https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2024/standings)
 - Ranked 200th at ICPC dhaka Asia Dhaka regional round 2024 (Team name: UIU_Entropy)
 - Won silver medal at [BeatCode 243 coding contest organised by United International University.](https://codeforces.com/gym/568088/standings)
 - Ranked 1st in [CODECLYPSE - Intra UIU Programming Contest](https://codeforces.com/gym/579729/standings)
-- 2nd Runner ups at [Falguni Code War 2025 organised by UIU](https://codeforces.com/gym/588461/standings)
-- Ranked 33th at [YCPC Grand Finale 2k25 organised by Phitron](https://www.hackerrank.com/contests/ycpc-grand-finale-2k24/leaderboard/4)
-- Ranked 4th [Turtle Coders Race 2025]( https://www.facebook.com/share/p/1CFM13ubUG/ )
 - Passed the [Therap JavaFest 2025 screening test](https://www.linkedin.com/posts/sahrior_im-happy-to-share-that-i-passed-the-therap-activity-7342894177027866626-j56h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs4OCsB2rmsdI_ydLi8pKgiJXkaizPrq_0)
 - Finalist at [BUBT Innovatex Hackathon 2025](https://www.facebook.com/share/17aFbXKZP7/)
 
