@@ -1,31 +1,13 @@
 <h1 align="center">Hi ! I'm Md Sahrior Haider Shovon <span class="wave">👋</span></h1>
 
-## 🏅 Achievements
-- 2 star rating on codechef [( Max rating 1444 )](https://www.codechef.com/users/i_code_to_live) 
-- Rated as pupil in codeforce [( Max rating 1239 )](https://codeforces.com/profile/Sahrior)
-- 5 stars problem solver [in Hackerrank](https://www.hackerrank.com/profile/sahriorishere)
-- ICPC Regionalist 2024
-- 2nd Runner Up at [Advanced object oriented project show](https://cse.uiu.ac.bd/projects/advanced-object-oriented-programming-laboratory/?rank=2nd-runner-up) , [Team name UIU Entropy](https://www.facebook.com/share/1CTGJ51YRC/)
-- 4th Runner Up at [System analysis and design project show Fall 25](https://www.facebook.com/photo/?fbid=849894328069134&set=a.133664646358776)
-  
-
 ## 🚀 About Me
-I am a competitive programmer with a strong foundation in data structures and algorithms, focused on writing clean, optimized, and efficient solutions. As a frontend-focused web developer, I enjoy transforming UI/UX designs into responsive, visually appealing, and user-friendly interfaces. I work extensively with HTML, CSS, JavaScript, ReactJS, and Tailwind to build modern, accessible, and well-structured web experience. I’m passionate about crafting intuitive interfaces, ensuring design consistency, and delivering polished products that provide an excellent user experience.
+Frontend Developer with 2+ years of experience in HTML, CSS, and JavaScript and 1+ year specializing
+in React.js, focused on building scalable, responsive, and user-friendly web applications. Skilled in API
+integration, state management, and clean UI design. ICPC Regionalist with strong problem-solving
+ability, having solved 1500+ problems across competitive programming platforms.
 
 
-## 🏆 Achivements
-- Ranked 1st in [UIU Long Contest](https://vjudge.net/contest/652580#rank)
-- 1st Runner ups in [TopCoder Junior Programming Contest](https://www.facebook.com/share/p/WkVj119B6pinz7X7/)
-- Qualified for the second round of the [SRBD Code Contest 2024 (Ranked 291th among 2000+ participant)  ](https://www.hackerrank.com/contests/srbd-code-contest-2024-round-1/leaderboard) Username: sahriorishere
-- We participated in the ICPC Dhaka Regional Preliminary Round, solving two problems. [We ranked 3rd among 23 teams from our university and got selected for ICPC Dhaka regionak onsite round. Team name: UIU_Entropy](https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2024/standings)
-- Ranked 200th at ICPC dhaka Asia Dhaka regional round 2024 (Team name: UIU_Entropy)
-- Won silver medal at [BeatCode 243 coding contest organised by United International University.](https://codeforces.com/gym/568088/standings)
-- Ranked 1st in [CODECLYPSE - Intra UIU Programming Contest](https://codeforces.com/gym/579729/standings)
-- 2nd Runner ups at [Falguni Code War 2025 organised by UIU](https://codeforces.com/gym/588461/standings)
-- Ranked 33th at [YCPC Grand Finale 2k25 organised by Phitron](https://www.hackerrank.com/contests/ycpc-grand-finale-2k24/leaderboard/4)
-- Ranked 4th [Turtle Coders Race 2025]( https://www.facebook.com/share/p/1CFM13ubUG/ )
-- Passed the [Therap JavaFest 2025 screening test](https://www.linkedin.com/posts/sahrior_im-happy-to-share-that-i-passed-the-therap-activity-7342894177027866626-j56h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs4OCsB2rmsdI_ydLi8pKgiJXkaizPrq_0)
-- Finalist at [BUBT Innovatex Hackathon 2025](https://www.facebook.com/share/17aFbXKZP7/)
+
 
 
 ## 🔧 Technologies & Tools
@@ -65,6 +47,27 @@ I am a competitive programmer with a strong foundation in data structures and al
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-007ACC.svg?style=flat-square&logo=codeblocks&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800.svg?style=flat-square&logo=sublime-text&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+
+
+## 🏆 Achivements
+- 2 star rating on codechef [( Max rating 1444 )](https://www.codechef.com/users/i_code_to_live) 
+- Rated as pupil in codeforce [( Max rating 1239 )](https://codeforces.com/profile/Sahrior)
+- 5 stars problem solver [in Hackerrank](https://www.hackerrank.com/profile/sahriorishere)
+- ICPC Regionalist 2024
+- 2nd Runner Up at [Advanced object oriented project show](https://cse.uiu.ac.bd/projects/advanced-object-oriented-programming-laboratory/?rank=2nd-runner-up) , [Team name UIU Entropy](https://www.facebook.com/share/1CTGJ51YRC/)
+- 4th Runner Up at [System analysis and design project show Fall 25](https://www.facebook.com/photo/?fbid=849894328069134&set=a.133664646358776)
+- Ranked 1st in [UIU Long Contest](https://vjudge.net/contest/652580#rank)
+- 1st Runner ups in [TopCoder Junior Programming Contest](https://www.facebook.com/share/p/WkVj119B6pinz7X7/)
+- Qualified for the second round of the [SRBD Code Contest 2024 (Ranked 291th among 2000+ participant)  ](https://www.hackerrank.com/contests/srbd-code-contest-2024-round-1/leaderboard) Username: sahriorishere
+- We participated in the ICPC Dhaka Regional Preliminary Round, solving two problems. [We ranked 3rd among 23 teams from our university and got selected for ICPC Dhaka regionak onsite round. Team name: UIU_Entropy](https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2024/standings)
+- Ranked 200th at ICPC dhaka Asia Dhaka regional round 2024 (Team name: UIU_Entropy)
+- Won silver medal at [BeatCode 243 coding contest organised by United International University.](https://codeforces.com/gym/568088/standings)
+- Ranked 1st in [CODECLYPSE - Intra UIU Programming Contest](https://codeforces.com/gym/579729/standings)
+- 2nd Runner ups at [Falguni Code War 2025 organised by UIU](https://codeforces.com/gym/588461/standings)
+- Ranked 33th at [YCPC Grand Finale 2k25 organised by Phitron](https://www.hackerrank.com/contests/ycpc-grand-finale-2k24/leaderboard/4)
+- Ranked 4th [Turtle Coders Race 2025]( https://www.facebook.com/share/p/1CFM13ubUG/ )
+- Passed the [Therap JavaFest 2025 screening test](https://www.linkedin.com/posts/sahrior_im-happy-to-share-that-i-passed-the-therap-activity-7342894177027866626-j56h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs4OCsB2rmsdI_ydLi8pKgiJXkaizPrq_0)
+- Finalist at [BUBT Innovatex Hackathon 2025](https://www.facebook.com/share/17aFbXKZP7/)
 
 
   
