@@ -37,16 +37,6 @@ ability, having solved 1500+ problems across competitive programming platforms.
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white)
 
-**Basic Computer Skills**:  
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A.svg?style=flat-square&logo=microsoft-word&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A.svg?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
-
-**Editor & IDE**:  
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
-![Code::Blocks](https://img.shields.io/badge/Code::Blocks-007ACC.svg?style=flat-square&logo=codeblocks&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800.svg?style=flat-square&logo=sublime-text&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 
 
 ## 🏆 Achivements
