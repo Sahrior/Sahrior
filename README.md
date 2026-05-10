@@ -11,7 +11,6 @@ ability, having solved 1500+ problems across competitive programming platforms.
 
 
 ## 🔧 Technologies & Tools
-<img align="right" src="https://media.licdn.com/dms/image/D5622AQEe18tt4rWc2w/feedshare-shrink_2048_1536/0/1691893673579?e=2147483647&v=beta&t=SczBnQ2brSjDBjy-EIbh5stRkF9fIBmFSOPVBV3j7XQ" alt="Coding Picture" width="300"/>
   
 **Programming Languages**:  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
