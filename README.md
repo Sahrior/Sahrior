@@ -39,7 +39,7 @@ ability, having solved 1500+ problems across competitive programming platforms.
 
 
 ## 🏆 Achivements
-- 2 star rating on codechef [( Max rating 1444 )](https://www.codechef.com/users/i_code_to_live) 
+- 2 stars rating on codechef [( Max rating 1444 )](https://www.codechef.com/users/i_code_to_live) 
 - Rated as pupil in codeforce [( Max rating 1239 )](https://codeforces.com/profile/Sahrior)
 - 5 stars problem solver [in Hackerrank](https://www.hackerrank.com/profile/sahriorishere)
 - ICPC Regionalist 2024
