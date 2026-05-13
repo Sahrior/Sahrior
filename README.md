@@ -25,6 +25,7 @@ ability, having solved 1500+ problems across competitive programming platforms.
 ![React](https://img.shields.io/badge/React-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
 **Competitive Programming**:  
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Sahrior)
